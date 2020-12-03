@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/basic"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:orderInCategory="100"
+        android:title="基本資料" />
+    <item
+        android:id="@+id/visit"
+        android:icon="@drawable/ic_baseline_airport_shuttle_24"
+        android:orderInCategory="200"
+        android:title="訪查資訊" />
+    <item
+        android:id="@+id/notice"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:orderInCategory="300"
+        android:title="注意事項" />
+    <item
+        android:id="@+id/contract"
+        android:icon="@drawable/ic_baseline_receipt_24"
+        android:orderInCategory="400"
+        android:title="合約資訊" />
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_baseline_subdirectory_arrow_left_24"
+        android:orderInCategory="999"
+        android:title="返回"
+        android:visible="true"
+        app:showAsAction="never" />
+
+</menu>

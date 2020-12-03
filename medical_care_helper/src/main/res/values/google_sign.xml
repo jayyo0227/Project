@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- TODO(user): replace with your real server client ID -->
+<!-- Server Client ID.  This should be a valid Web OAuth 2.0 Client ID obtained
+     from https://console.developers.google.com/ -->
+<!--    https://developers.google.com/identity/sign-in/android/start-integrating   -->
+<!--  學校的 -->
+<!--<string name="server_client_id">xxxxxxx283mv1r13j3pecso.apps.googleusercontent.com</string>-->
+<!--  家裡的  -->
+<!--    <string name="server_client_id">6k24ekdc0aft19osc0c8hj6dgkrkdc6f.apps.googleusercontent.com</string>-->
+
+<!--        Package name:-->
+<!--        tw.tcnr.medicalcare-->
+<!--        SHA-1 certificate fingerprint:-->
+<!--        10:5D:0B:09:88:8C:5D:4C:E7:B7:58:6A:78:CE:56:A7:32:F0:E8:A0-->
+
+    <!--  家裡的  project-->
+<!--        <string name="server_client_id">610603531861-6k24ekdc0aft19osc0c8hj6dgkrkdc6f.apps.googleusercontent.com</string>-->
+
+
+        <!--  學校的 -->
+<!--        Package name:-->
+<!--        tw.tcnr.medicalcare-->
+<!--        SHA-1 certificate fingerprint:-->
+<!--        58:C7:18:AA:5F:02:7D:F9:28:D3:24:E3:93:1B:F9:13:1A:5D:94:11-->
+        <string name="server_client_id">610603531861-6k24ekdc0aft19osc0c8hj6dgkrkdc6f.apps.googleusercontent.com</string>
+
+</resources>
